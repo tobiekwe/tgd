@@ -9,7 +9,7 @@ font-family: "Poppins", sans-serif;
     background-color: white;
     box-sizing: border-box;
     background-image: url("images/bg-simplify-section-desktop.svg");
-    /* background-position-x: 75%; */
+    /* background-position-y: 45%; */
   
 }
 /*Header by Roy Nwakamma and Obinna Chijioke  */
@@ -87,12 +87,13 @@ button{
     /* background-color: blue; */
     margin-top: 40px;
 }
-.what h2{
+.two_what h2{
     width: 400px;
+    font-size: 2em;
     /* margin-left: 0; */
     /* background-color: aqua; */
 }
-.what p{
+.two_what p{
     width: 320px;
     font-size: 14px;
     /* background-color: bisque; */
